@@ -159,7 +159,7 @@ $posts = $stmt->fetchAll();
     <div class="container">
       <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
         <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
-        <img src="./assets/images/login.png" alt="Login Icon" width="60" height="60" class="rounded-circle shadow-sm border" style="object-fit: cover;">
+        <img src="./uploads/a3.jpg" alt="Login Icon" width="60" height="60" class="rounded-circle shadow-sm border" style="object-fit: cover;">
 
         </a>
 
